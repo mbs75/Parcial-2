@@ -26,5 +26,5 @@ Este proyecto utiliza JUnit 5 para pruebas unitarias. Para ejecutar los tests:
 
 ## 📝 Autoría y versión
 
-- **Autor**: (tu nombre aquí)
+- **Autor**: Marina B
 - **Versión**: 1.0.0
